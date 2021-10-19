@@ -27,7 +27,7 @@ setService(foundService)
 
   return (
     <div>
-      {id}
+     <h2>This is booking :{id}</h2> 
       <Container>
           <Row xs={1} md={1} className="g-4">
         <Col>
