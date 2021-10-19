@@ -1,0 +1,48 @@
+[
+    {
+        "id" : 1,
+        "name" : "Eye Care",
+        "description" : "Eventually, cataracts impact everyone. With medical advances, cataract surgery is now considered extremely safe. For information, click below..",
+        "img"   :"https://i.ibb.co/zfddSBr/x1-png-pagespeed-ic-x3q-Ds-w-H-Z-1.webp"
+
+    },
+    {
+        "id" : 2,
+        "name" : "Physical Therapy",
+        "description" : "Physical therapy, also known as physiotherapy, is one of the allied health professions. It is provided by physical therapists who promote, maintain, or restore health through physical.",
+        "img"   :"https://i.ibb.co/X5nDjLx/x2-png-pagespeed-ic-ua-L3-Vgm-Wbh.webp"
+        
+
+    },
+    {
+        "id" : 3,
+        "name" : "Dental Care",
+        "description" : "Dental care is the maintenance of healthy teeth and may refer to: Oral hygiene, the practice of keeping the mouth and teeth clean",
+        "img"   :"https://i.ibb.co/VvDb6GX/x3-png-pagespeed-ic-zp-AN733a8c.webp"
+
+    },
+    {
+        "id" : 4,
+        "name" : "Diagnostic Test",
+        "description" : "A diagnostic test is a test used to identify a condition or its cause. It is used to diagnose. A diagnostic test performed as a part of a medical exam may be used to identify the ",
+        "img"   :"https://i.ibb.co/51cbQ9F/x4-png-pagespeed-ic-28-IHJt-AY2d.webp"
+
+    },
+    {
+        "id" : 5,
+        "name" : "Skin Surgery",
+        "description" : "Facial Contouring: Rhinoplasty, Chin, or Cheek Enhancement. Facial Rejuvenation: Facelift, Eyelid Lift, Neck Lift, Brow Lift. Body Contouring: Tummy Tuck, Liposuction, Gynecomastia Treatment..",
+        "img"   :"https://i.ibb.co/ZV99qYn/x5-png-pagespeed-ic-AJvtq-HVh-NN.webp"
+        
+
+    },
+    {
+        "id" : 6,
+        "name" : "Surgery Service",
+        "description" : "Surgical service professionals specialize in the treatment of injury, disease, and deformity through surgical procedures. Using a variety of instruments, the surgeon, supported by the surgical team, corrects physical deformities and repairs bone and tissue due to illness or injury..",
+        "img"   :"https://i.ibb.co/TwSqKCK/x6-png-pagespeed-ic-H-Jz9l-DBS.webp"
+
+    }
+]
+
+ 

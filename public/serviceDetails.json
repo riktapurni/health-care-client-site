@@ -1,0 +1,44 @@
+[
+  {
+        "id": 1,
+        "name": "Eye Care",
+        "picture": "https://i.ibb.co/zfddSBr/x1-png-pagespeed-ic-x3q-Ds-w-H-Z-1.webp",
+        "description" : "Eventually, cataracts impact everyone. With medical advances, cataract surgery is now considered extremely safe. For information, click below."
+      
+      },
+    {
+        "id": 2,
+        "name": "Physical Therapy",
+        "picture": "https://i.ibb.co/X5nDjLx/x2-png-pagespeed-ic-ua-L3-Vgm-Wbh.webp",
+        "description" : "Physical therapy, also known as physiotherapy, is one of the allied health professions. It is provided by physical therapists who promote, maintain, or restore health through physical examination, diagnosis, prognosis, patient education, physical intervention, rehabilitation, disease prevention and health promotion."
+      
+      },
+    {
+        "id": 3,
+        "name": "Dental Care",
+        "picture": "https://i.ibb.co/VvDb6GX/x3-png-pagespeed-ic-zp-AN733a8c.webp",
+        "description" : "Dental care is the maintenance of healthy teeth and may refer to: Oral hygiene, the practice of keeping the mouth and teeth clean in order to prevent dental disorders. Dentistry, the professional care of teeth, including professional oral hygiene and dental surgery."
+      
+      },
+    {
+        "id": 4,
+        "name": "Diagnostic Test",
+        "picture": "https://i.ibb.co/51cbQ9F/x4-png-pagespeed-ic-28-IHJt-AY2d.webp",
+        "description" : "A diagnostic test is a test used to identify a condition or its cause. It is used to diagnose. A diagnostic test performed as a part of a medical exam may be used to identify the cause of symptoms or identify a disease. When used for other purposes, a diagnostic test may be used to identify specific strengths and weaknesses."
+      
+      },
+    {
+        "id": 5,
+        "name": "Skin Surgery",
+        "picture": "https://i.ibb.co/ZV99qYn/x5-png-pagespeed-ic-AJvtq-HVh-NN.webp",
+        "description" : "Facial Contouring: Rhinoplasty, Chin, or Cheek Enhancement. Facial Rejuvenation: Facelift, Eyelid Lift, Neck Lift, Brow Lift. Body Contouring: Tummy Tuck, Liposuction, Gynecomastia Treatment."
+      
+      },
+    {
+        "id": 6,
+        "name": "Surgery Service",
+        "picture": "https://i.ibb.co/TwSqKCK/x6-png-pagespeed-ic-H-Jz9l-DBS.webp",
+        "description" : "Surgical service professionals specialize in the treatment of injury, disease, and deformity through surgical procedures. Using a variety of instruments, the surgeon, supported by the surgical team, corrects physical deformities and repairs bone and tissue due to illness or injury."
+      
+      }  
+]
